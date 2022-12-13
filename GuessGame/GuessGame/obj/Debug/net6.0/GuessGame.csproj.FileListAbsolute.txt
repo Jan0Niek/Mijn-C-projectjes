@@ -1,0 +1,15 @@
+D:\C# projecten\GuessGame\GuessGame\bin\Debug\net6.0\GuessGame.exe
+D:\C# projecten\GuessGame\GuessGame\bin\Debug\net6.0\GuessGame.deps.json
+D:\C# projecten\GuessGame\GuessGame\bin\Debug\net6.0\GuessGame.runtimeconfig.json
+D:\C# projecten\GuessGame\GuessGame\bin\Debug\net6.0\GuessGame.dll
+D:\C# projecten\GuessGame\GuessGame\bin\Debug\net6.0\GuessGame.pdb
+D:\C# projecten\GuessGame\GuessGame\obj\Debug\net6.0\GuessGame.csproj.AssemblyReference.cache
+D:\C# projecten\GuessGame\GuessGame\obj\Debug\net6.0\GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projecten\GuessGame\GuessGame\obj\Debug\net6.0\GuessGame.AssemblyInfoInputs.cache
+D:\C# projecten\GuessGame\GuessGame\obj\Debug\net6.0\GuessGame.AssemblyInfo.cs
+D:\C# projecten\GuessGame\GuessGame\obj\Debug\net6.0\GuessGame.csproj.CoreCompileInputs.cache
+D:\C# projecten\GuessGame\GuessGame\obj\Debug\net6.0\GuessGame.dll
+D:\C# projecten\GuessGame\GuessGame\obj\Debug\net6.0\refint\GuessGame.dll
+D:\C# projecten\GuessGame\GuessGame\obj\Debug\net6.0\GuessGame.pdb
+D:\C# projecten\GuessGame\GuessGame\obj\Debug\net6.0\GuessGame.genruntimeconfig.cache
+D:\C# projecten\GuessGame\GuessGame\obj\Debug\net6.0\ref\GuessGame.dll

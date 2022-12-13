@@ -1,0 +1,15 @@
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\bin\Debug\net6.0\MobieltjesProgramma.exe
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\bin\Debug\net6.0\MobieltjesProgramma.deps.json
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\bin\Debug\net6.0\MobieltjesProgramma.runtimeconfig.json
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\bin\Debug\net6.0\MobieltjesProgramma.dll
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\bin\Debug\net6.0\MobieltjesProgramma.pdb
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\obj\Debug\net6.0\MobieltjesProgramma.csproj.AssemblyReference.cache
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\obj\Debug\net6.0\MobieltjesProgramma.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\obj\Debug\net6.0\MobieltjesProgramma.AssemblyInfoInputs.cache
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\obj\Debug\net6.0\MobieltjesProgramma.AssemblyInfo.cs
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\obj\Debug\net6.0\MobieltjesProgramma.csproj.CoreCompileInputs.cache
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\obj\Debug\net6.0\MobieltjesProgramma.dll
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\obj\Debug\net6.0\refint\MobieltjesProgramma.dll
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\obj\Debug\net6.0\MobieltjesProgramma.pdb
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\obj\Debug\net6.0\MobieltjesProgramma.genruntimeconfig.cache
+D:\C# projecten\MobieltjesProgramma\MobieltjesProgramma\obj\Debug\net6.0\ref\MobieltjesProgramma.dll

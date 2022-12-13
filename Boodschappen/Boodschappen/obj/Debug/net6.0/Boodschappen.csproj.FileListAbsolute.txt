@@ -1,0 +1,15 @@
+D:\C# projecten\Boodschappen\Boodschappen\bin\Debug\net6.0\Boodschappen.exe
+D:\C# projecten\Boodschappen\Boodschappen\bin\Debug\net6.0\Boodschappen.deps.json
+D:\C# projecten\Boodschappen\Boodschappen\bin\Debug\net6.0\Boodschappen.runtimeconfig.json
+D:\C# projecten\Boodschappen\Boodschappen\bin\Debug\net6.0\Boodschappen.dll
+D:\C# projecten\Boodschappen\Boodschappen\bin\Debug\net6.0\Boodschappen.pdb
+D:\C# projecten\Boodschappen\Boodschappen\obj\Debug\net6.0\Boodschappen.csproj.AssemblyReference.cache
+D:\C# projecten\Boodschappen\Boodschappen\obj\Debug\net6.0\Boodschappen.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projecten\Boodschappen\Boodschappen\obj\Debug\net6.0\Boodschappen.AssemblyInfoInputs.cache
+D:\C# projecten\Boodschappen\Boodschappen\obj\Debug\net6.0\Boodschappen.AssemblyInfo.cs
+D:\C# projecten\Boodschappen\Boodschappen\obj\Debug\net6.0\Boodschappen.csproj.CoreCompileInputs.cache
+D:\C# projecten\Boodschappen\Boodschappen\obj\Debug\net6.0\Boodschappen.dll
+D:\C# projecten\Boodschappen\Boodschappen\obj\Debug\net6.0\refint\Boodschappen.dll
+D:\C# projecten\Boodschappen\Boodschappen\obj\Debug\net6.0\Boodschappen.pdb
+D:\C# projecten\Boodschappen\Boodschappen\obj\Debug\net6.0\Boodschappen.genruntimeconfig.cache
+D:\C# projecten\Boodschappen\Boodschappen\obj\Debug\net6.0\ref\Boodschappen.dll

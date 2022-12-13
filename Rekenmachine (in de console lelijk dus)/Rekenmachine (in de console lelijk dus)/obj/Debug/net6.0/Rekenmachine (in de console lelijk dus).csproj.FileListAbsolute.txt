@@ -1,0 +1,15 @@
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\bin\Debug\net6.0\Rekenmachine (in de console lelijk dus).exe
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\bin\Debug\net6.0\Rekenmachine (in de console lelijk dus).deps.json
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\bin\Debug\net6.0\Rekenmachine (in de console lelijk dus).runtimeconfig.json
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\bin\Debug\net6.0\Rekenmachine (in de console lelijk dus).dll
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\bin\Debug\net6.0\Rekenmachine (in de console lelijk dus).pdb
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\obj\Debug\net6.0\Rekenmachine (in de console lelijk dus).csproj.AssemblyReference.cache
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\obj\Debug\net6.0\Rekenmachine (in de console lelijk dus).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\obj\Debug\net6.0\Rekenmachine (in de console lelijk dus).AssemblyInfoInputs.cache
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\obj\Debug\net6.0\Rekenmachine (in de console lelijk dus).AssemblyInfo.cs
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\obj\Debug\net6.0\Rekenmachine (in de console lelijk dus).csproj.CoreCompileInputs.cache
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\obj\Debug\net6.0\Rekenmachine (in de console lelijk dus).dll
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\obj\Debug\net6.0\refint\Rekenmachine (in de console lelijk dus).dll
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\obj\Debug\net6.0\Rekenmachine (in de console lelijk dus).pdb
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\obj\Debug\net6.0\Rekenmachine (in de console lelijk dus).genruntimeconfig.cache
+D:\C# projecten\Rekenmachine (in de console lelijk dus)\Rekenmachine (in de console lelijk dus)\obj\Debug\net6.0\ref\Rekenmachine (in de console lelijk dus).dll

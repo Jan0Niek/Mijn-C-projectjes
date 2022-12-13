@@ -1,0 +1,15 @@
+D:\C# projecten\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.exe
+D:\C# projecten\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+D:\C# projecten\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.runtimeconfig.json
+D:\C# projecten\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+D:\C# projecten\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+D:\C# projecten\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.AssemblyReference.cache
+D:\C# projecten\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projecten\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+D:\C# projecten\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+D:\C# projecten\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\C# projecten\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+D:\C# projecten\Fibonacci\Fibonacci\obj\Debug\net6.0\refint\Fibonacci.dll
+D:\C# projecten\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+D:\C# projecten\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.genruntimeconfig.cache
+D:\C# projecten\Fibonacci\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll
